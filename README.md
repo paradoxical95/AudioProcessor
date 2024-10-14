@@ -12,4 +12,4 @@ To run ->
 
 Where 'input.wav' is your input file, ideally to be placed next to the .cu/.exe file. Output would be generated in the same directory named "output.wav"
 
-Still a work in progress and may not work properly for all WAV files. 
+Still a work in progress and may not work properly for all WAV files. In my case, it fails on converted WAVs and at times makes an empty file on natively exported WAV files.
